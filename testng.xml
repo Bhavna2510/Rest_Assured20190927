@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Jupiter_Testing/Rest_Assured20190927/src/main/java/Rest_Assured01/testStatusCode.java">
+        <classes>
+            <class name="Rest_Assured01.testStatusCode">
+            <methods><include name="testStatusCodes"/></methods>
+        </class>
+        </classes>
+    </test>
+</suite>
